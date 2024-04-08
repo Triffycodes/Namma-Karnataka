@@ -1,7 +1,7 @@
 # Namma-Karnataka
 "Namma Karnataka" is a website that gives details of 100+ of the tourist places of Karnataka and hotel details near them.
 ##
-[Live Demo](https://triffycodes.github.io/Namma-Karnataka/)
+[Live Demo](https://triffycodes.github.io/Namma-Karnataka/) &nbsp; :point_left: Click here for live Demo
 ##
 ![first](https://github.com/Triffycodes/Namma-Karnataka/assets/45749291/6903f4b0-ca45-4705-ad26-e3dca73caa09)
 ##
